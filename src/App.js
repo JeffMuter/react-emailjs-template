@@ -10,7 +10,7 @@ function App() {
         <label>Name</label>
         <input type="text" name="user_name" required></input>
         <label>Email</label>
-        <input type="email' name="user_email" required></input>
+        <input type="email" name="user_email" required></input>
         <label>Message</label>
         <textarea name="message" required></textarea>
         <input type="submit" value="SEND"></input>
